@@ -6,17 +6,7 @@ public class RegioesRandom {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-       /*  String regionPool[] = {"Bandópolis", "Demacia", "Freljord", "Ilha das Sombras", "Ionia", "Ixtal", "Noxus", "Vazio", "Piltover", "Shurima", "Targon", "Zaun", "Aguas de Sentina"};
-
-        int rng = (int)(Math.random ()*13);
-        int rng2 = (int)(Math.random ()*13);
-
-        System.out.println("Região do time 1: " + regionPool[rng]);
-        System.out.println("Região do time 2: " + regionPool[rng2]);
-        }
-
-        */
-
+       
         String integrantes[] = {"Zimzum", "Bovinator", "Earendel", "Lammazzus", "Fan do Hasbulla", "Mix"};
         List<String> lista = Arrays.asList(integrantes);
 
